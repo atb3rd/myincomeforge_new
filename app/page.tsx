@@ -6,9 +6,6 @@ export default function Home() {
       <p>
         Smart income calculators built for self-employed professionals and independent earners in the United States.
       </p>
-<p>
-  <a href="/calculators">View all calculators</a>
-</p>
 
       <h2>Popular Calculators</h2>
       <ul>
@@ -24,4 +21,3 @@ export default function Home() {
     </main>
   );
 }
-
